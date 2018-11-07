@@ -8,12 +8,13 @@ As a second step, one can actually check redrock routine performance with respec
 
 * The runs we have used so far include:
 
-/global/project/projectdirs/desi/mocks/lya_forest/london/v2.0/quick-1.8/spectra-16
+  * /global/project/projectdirs/desi/mocks/lya_forest/london/v2.0/quick-{}/spectra-16
 
-Version 2.0/ quick 1.0 to 1.8: first tests in local (especifically, 8, subpixel 845). Further tests have been focused on quick 1.0, 1.7 and 1.8.
+    Version 2.0/ quick 1.0 to 1.8: first tests in local (especifically, 8, subpixel 845). Further tests have been focused on quick 1.0, 1.7 and 1.8.
 
-/global/project/projectdirs/desi/mocks/lya_forest/london/v3.0
-Version 3.0/ quick 0.1 and 0.2: tests to run redrock in parallel with a modified version of Alma' script. (logs in cluster).
+  * /global/project/projectdirs/desi/mocks/lya_forest/london/v3.0
+
+    Version 3.0/ quick 0.1 and 0.2: tests to run redrock in parallel with a modified version of Alma' script. (logs in cluster).
 
 * Ways to run redrock:
  
